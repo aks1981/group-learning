@@ -16,7 +16,7 @@ Syntax highlighted code block
 2. Deep Learning Intution
 
 Colab URL for hands on
-[Link](https://colab.research.google.com/notebooks/welcome.ipynb)
+[https://colab.research.google.com/notebooks/welcome.ipynb] (url)
 
 Github URL
 [Link]()
