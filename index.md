@@ -1,19 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Group Learning Pages
 
 You can use the [editor on GitHub](https://github.com/aks1981/group-learning/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Learning Path
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Session 1
+1. Core Python 
+2. Deep Learning Intution
+
+Colab URL for hands on
+[Link](https://colab.research.google.com/notebooks/welcome.ipynb)
+
+Github URL
+[Link]()
+## Session 2
+## Session 3
 
 - Bulleted
 - List
@@ -25,12 +33,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aks1981/group-learning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
