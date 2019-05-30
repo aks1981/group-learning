@@ -7,7 +7,7 @@ Participants
 
 ## Session 1
 1. Core Python 
-2. Deep Learning Intution
+2. Deep Learning intuition
 
 Colab URL for hands on
 <https://colab.research.google.com/notebooks/welcome.ipynb>
