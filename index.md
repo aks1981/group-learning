@@ -25,4 +25,5 @@ Assingment 1
 6. Write a program for ordered list to search (binary search) a value.
 7. Write a program to find out whether list is orted.
 8. Calculate the count of given list using HashTable/Dictionary.
+9. Wind the max value in given list
 
