@@ -19,6 +19,6 @@ Github URL
 Assingment 1
 1. Write program for Euclidean algorithm (GCD).
 2. Write program implement link list with insert, delete, find and sort function. 
-3. Write program of bubble sort, insertion sort, quick sort and binary sort.
+3. Write program of bubble sort, insertion sort, quick sort and merge sort.
 4. Implement Stack and Queue data structure.
 
