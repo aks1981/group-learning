@@ -22,5 +22,5 @@ Assingment 1
 3. Write a program of bubble sort, insertion sort, quick sort and merge sort.
 4. Implement Stack and Queue data structure.
 5. Write a program for unsorted list to search a value.
-6. Write a program for ordered list to search a value.
+6. Write a program for ordered list to search (binary search) a value.
 
