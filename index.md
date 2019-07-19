@@ -16,3 +16,7 @@ Colab URL for hands on
 Github URL
 <https://github.com/aks1981/group-learning/blob/master/index.md>
 
+Assingment 1
+1. Write program for Euclidean algorithm (GCD).
+2. Write program implement link list with insert, delete, find and sort function. 
+
