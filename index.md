@@ -27,3 +27,8 @@ Assingment 1
 8. Calculate the count of given list using HashTable/Dictionary.
 9. Wind the max value in given list
 
+
+
+## Session 2
+1. Deep drive Python 3
+2. 
